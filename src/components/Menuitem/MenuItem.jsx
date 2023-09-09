@@ -18,5 +18,6 @@ const MenuItem = ({title, price, tags}) => (
     </div>
   </div>
 );
+//derp
 
 export default MenuItem;
